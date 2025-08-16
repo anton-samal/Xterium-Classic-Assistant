@@ -1,0 +1,1 @@
+window.location.href = 'https://classic.xterium.com/game.php?page=overview';
