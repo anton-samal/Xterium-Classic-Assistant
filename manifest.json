@@ -23,5 +23,12 @@
       "matches": ["https://classic.xterium.com/game.php?page=bonus"],
       "js": ["bonusRedirect.js"]
     }
-  ]
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@xterium-classic-assistant"
+    }
+  }
+
 }
